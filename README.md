@@ -1,4 +1,5 @@
 # Alexnet-Ciphar10
+* see project.ipynb for code
 * see report.pdf for final results.
 
 
